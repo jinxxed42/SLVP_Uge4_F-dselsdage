@@ -24,6 +24,4 @@ namespace SLVP_Uge4_Fødselsdage
             Age++;
         }
     }
-
-
 }

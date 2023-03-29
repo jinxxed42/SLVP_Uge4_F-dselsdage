@@ -30,4 +30,3 @@ Console.WriteLine();
 Console.WriteLine("- Efter to fødselsdage -");
 Console.WriteLine();
 Console.WriteLine("Personen er: " + p1.Name + " som er " + p1.Age + " år gammel og bor " + p1.Address + ".");
-
